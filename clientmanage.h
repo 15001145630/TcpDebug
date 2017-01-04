@@ -2,6 +2,7 @@
 #define CLIENTMANAGE_H
 #include <QList>
 #include "common.h"
+#include "client.h"
 #include <QTcpSocket>
 class ClientManage
 {

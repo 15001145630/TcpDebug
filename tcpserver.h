@@ -5,15 +5,10 @@
 #include <QtNetwork>
 #include <QList>
 #include "common.h"
+
 #include "clientmanage.h"
-#include "tcpthread.h"
+
 using namespace std;
-//class ClientInfo{
-//  private:
-//    QString name;
-//};
-
-
 
 class TcpServer : public QObject
 {

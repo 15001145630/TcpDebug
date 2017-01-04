@@ -18,12 +18,12 @@ SOURCES += main.cpp\
     common.cpp \
     clientmanage.cpp \
     tcpserver.cpp \
-    tcpthread.cpp
+    client.cpp
 
 HEADERS  += widget.h \
     common.h \
     clientmanage.h \
     tcpserver.h \
-    tcpthread.h
+    client.h
 
 FORMS    += widget.ui
